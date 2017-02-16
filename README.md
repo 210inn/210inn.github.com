@@ -1,1 +1,1 @@
-#[210inn.github.io](http://210inn.github.io)
+#[210inn.jp](http://210inn.jp)
